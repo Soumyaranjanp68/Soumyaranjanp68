@@ -1,4 +1,4 @@
-![logo](https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif)
+
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Pradhan</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="center" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
