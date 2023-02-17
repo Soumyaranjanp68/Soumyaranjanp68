@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Pradhan</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<img align="middle" alt="coding" width="800" src="https://cdn.dribbble.com/users/348324/screenshots/14276162/200926_mr.png?compress=1&resize=450x338&vertical=top">
+<img align="right" alt="coding" width="800" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyaranjanp68&label=Profile%20views&color=0e75b6&style=flat" alt="soumyaranjanp68" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyaranjanp68" alt="soumyaranjanp68" /></a> </p>
